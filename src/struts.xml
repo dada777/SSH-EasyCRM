@@ -15,8 +15,10 @@
 			<result name="login">/login.jsp</result>
 		</global-results>
 		<action name="user_*" class="userAction" method="{1}">
+			<!--先打开项目 进入index.jsp &ndash;&gt;  自动导向到login.jsp -->
+			<!--所以 result == login 就直接返回login.jsp 就可以了-->
 			<result name="login">/login.jsp</result>
-		    <result name="success" type="redirect">/index.jsp</result>
+		    <result name="success" type="redirect">/jsp/main.jsp</result>
 			<interceptor-ref name="privilegeInterceptor">
 				<param name="excludeMethods">regist,login</param>
 			</interceptor-ref>

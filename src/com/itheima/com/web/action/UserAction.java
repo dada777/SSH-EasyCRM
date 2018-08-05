@@ -16,6 +16,9 @@ public class UserAction extends ActionSupport implements ModelDriven<User> {
 	private User user = new User();
 	private UserService userService;
 
+
+
+
 	public String regist(){
         userService.regist(user);
         return "login";
@@ -44,6 +47,19 @@ public class UserAction extends ActionSupport implements ModelDriven<User> {
        //不需要传递 List  只有穿个Jason格式的东西过去就行了
 
 		return  NONE;
+	}
+
+
+   /*
+   *  UserLogOut
+   *  得把User放到COOKie中 放到Session 中 客户点 浏览器返回就又有了
+   *  Session 是在整个浏览器里面 不关闭 点返回了...尼玛就白删除了..一直在啊 ...
+   * */
+
+	public String logOut(){
+		ActionContext.getContext().getSession().clear();
+		return  LOGIN;
+
 	}
 
 	@Override

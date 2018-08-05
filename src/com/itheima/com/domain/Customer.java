@@ -86,6 +86,18 @@ public class Customer {
 		this.linkMans = linkMans;
 	}
 
+
+	@Override
+	public String toString() {
+		return "Customer{" +
+				"cust_id=" + cust_id +
+				", cust_name='" + cust_name + '\'' +
+				", cust_phone='" + cust_phone + '\'' +
+				", cust_mobile='" + cust_mobile + '\'' +
+				", cust_image='" + cust_image + '\'' +
+				'}';
+	}
+
 	public void setCust_image(String cust_image) {
 		this.cust_image = cust_image;
 	}

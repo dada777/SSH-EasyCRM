@@ -7,7 +7,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5874ff4-6564-49cb-99c6-a19f6943e871" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/service/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/service/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/service/impl/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/service/impl/CustomerServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/web/action/CustomerAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/web/action/CustomerAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/web/action/UserAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/web/action/UserAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/jsp/salevisit/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CRM_war_exploded/jsp/salevisit/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/com/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/com/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/com/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/com/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/com/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/com/domain/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/com/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/com/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/com/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/com/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/com/service/impl/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/com/service/impl/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/com/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/com/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/com/web/action/CustomerAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/com/web/action/CustomerAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/com/web/action/UserAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/com/web/action/UserAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/domain/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/domain/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/service/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/service/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/service/impl/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/service/impl/CustomerServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/web/action/CustomerAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/web/action/CustomerAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/web/action/UserAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/itheima/com/web/action/UserAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/jsp/salevisit/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/jsp/salevisit/add.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +46,7 @@
     <session id="1330119560">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.20" value="1" />
@@ -40,38 +66,38 @@
         <counts>
           <entry key="class" value="4" />
           <entry key="iml" value="1" />
-          <entry key="java" value="134" />
+          <entry key="java" value="160" />
           <entry key="js" value="1" />
-          <entry key="jsp" value="33" />
+          <entry key="jsp" value="37" />
           <entry key="properties" value="1" />
-          <entry key="xml" value="39" />
+          <entry key="xml" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="134" />
-          <entry key="JSP" value="33" />
+          <entry key="JAVA" value="160" />
+          <entry key="JSP" value="37" />
           <entry key="JavaScript" value="1" />
           <entry key="Properties" value="1" />
-          <entry key="XML" value="39" />
+          <entry key="XML" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="class" value="5" />
           <entry key="dummy" value="18" />
-          <entry key="java" value="2848" />
-          <entry key="jsp" value="1767" />
+          <entry key="java" value="3383" />
+          <entry key="jsp" value="1809" />
           <entry key="xml" value="536" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="2848" />
-          <entry key="JSP" value="1767" />
+          <entry key="JAVA" value="3383" />
+          <entry key="JSP" value="1809" />
           <entry key="PLAIN_TEXT" value="18" />
           <entry key="SQL" value="1" />
           <entry key="XML" value="535" />
@@ -82,19 +108,68 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/jsp/salevisit/add.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1170">
+              <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/itheima/com/web/action/CustomerAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-752">
-              <caret line="166" column="26" selection-start-line="166" selection-start-column="26" selection-end-line="166" selection-end-column="26" />
+            <state relative-caret-position="180">
+              <caret line="212" selection-start-line="212" selection-end-line="213" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/jsp/customer/list.jsp">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itheima/com/domain/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4320">
-              <caret line="96" column="67" lean-forward="true" selection-start-line="96" selection-start-column="67" selection-end-line="96" selection-end-column="67" />
+            <state relative-caret-position="390">
+              <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+              <folding>
+                <element signature="e#1652#1653#0" expanded="true" />
+                <element signature="e#1674#1675#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itheima/com/web/action/SaleVisitAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1125">
+              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+              <folding>
+                <element signature="e#996#997#0" expanded="true" />
+                <element signature="e#1024#1025#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itheima/com/web/action/UserAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -121,6 +196,7 @@
       <find>cust_source</find>
       <find>客户名称</find>
       <find>联系人性别</find>
+      <find>customer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -129,9 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/itheima/com/service/BaseDictService.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/com/service/impl/BaseDictServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/com/dao/BaseDictDao.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/dao/impl/BaseDictDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/utils/PageBean.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/utils/UploadUtils.java" />
@@ -146,24 +219,18 @@
         <option value="$PROJECT_DIR$/src/com/itheima/com/service/impl/LinkmanServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/web/action/LinkmanAction.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/domain/LinkMan.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/com/service/CustomerService.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/com/service/impl/CustomerServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/service/LinkManService.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/service/impl/LinkManServiceImpl.java" />
         <option value="$PROJECT_DIR$/web/jsp/linkman/edit.jsp" />
         <option value="$PROJECT_DIR$/web/jsp/linkman/add.jsp" />
         <option value="$PROJECT_DIR$/web/jsp/linkman/list.jsp" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/web/action/LinkManAction.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/com/web/action/UserAction.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/com/domain/Customer.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/domain/Customer.hbm.xml" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/dao/BaseDao.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/dao/CustomerDao.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/dao/impl/CustomerDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/dao/impl/LinkManDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/dao/LinkManDao.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/com/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/com/dao/impl/UserDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/dao/impl/BaseDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/domain/SaleVisit.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/dao/SaleVisitDao.java" />
@@ -179,6 +246,15 @@
         <option value="$PROJECT_DIR$/src/com/itheima/com/domain/SaleVisit.hbm.xml" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/web/interceptor/PrivilegeInterceptor.java" />
         <option value="$PROJECT_DIR$/src/struts.xml" />
+        <option value="$PROJECT_DIR$/src/com/itheima/com/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/com/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/com/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/com/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/com/service/CustomerService.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/com/service/impl/CustomerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/web/jsp/salevisit/add.jsp" />
+        <option value="$PROJECT_DIR$/src/com/itheima/com/web/action/UserAction.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/com/domain/Customer.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/com/web/action/CustomerAction.java" />
       </list>
     </option>
@@ -196,7 +272,7 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="55" />
     <option name="y" value="240" />
     <option name="width" value="1805" />
@@ -243,6 +319,24 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="action" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="customer" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -254,7 +348,7 @@
     <property name="SearchEverywhereHistoryKey" value="linkman&#9;PSI&#9;JAVA://com.itheima.com.domain.LinkMan&#10;struts&#9;FILE&#9;file://E:/JavaApps/CRM/src/struts.xml&#10;opens&#9;PSI&#9;JAVA://org.springframework.orm.hibernate3.support.OpenSessionInViewFilter" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533468955415" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533474925700" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -451,17 +545,18 @@
       <workItem from="1533343807999" duration="1306000" />
       <workItem from="1533347900239" duration="813000" />
       <workItem from="1533367098965" duration="619000" />
-      <workItem from="1533465469377" duration="2633000" />
+      <workItem from="1533465469377" duration="7032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66197000" />
+    <option name="totallyTimeSpent" value="70596000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16531713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20850202" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -472,7 +567,7 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.82321185" visible="true" weight="0.1299435" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.82321185" weight="0.1299435" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.16824967" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -484,7 +579,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="JRebel Executor" order="14" sideWeight="0.82321185" weight="0.11723164" />
+      <window_info anchor="bottom" id="JRebel Executor" order="14" sideWeight="0.82321185" weight="0.22033899" />
       <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.17678812" side_tool="true" weight="1.0" />
       <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.49392712" weight="0.07062147" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -542,30 +637,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/domain/Customer.hbm.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/jquery-1.11.3.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/artifacts/CRM_war_exploded/WEB-INF/classes/com/itheima/com/web/action/CustomerAction.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -597,32 +668,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/service/CustomerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/service/impl/CustomerServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://F:/09-SSH企业案例_CRM-客户管理系统(6天)/day05_CRM权限拦截器_SSH纯注解整合/day05_CRM权限拦截器_SSH纯注解整合/crm_day05/资料/代码/crm/WebContent/jsp/linkman/list.jsp" />
     <entry file="file://$PROJECT_DIR$/src/com/itheima/com/domain/LinkMan.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="23" column="29" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/jsp/customer/edit.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" selection-start-line="11" selection-end-line="45" />
         </state>
       </provider>
     </entry>
@@ -661,13 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/domain/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1935">
-          <caret line="80" column="39" selection-start-line="80" selection-start-column="39" selection-end-line="80" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/itheima/com/domain/Customer.hbm.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -675,38 +718,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/dao/BaseDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/dao/impl/BaseDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1715">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/dao/CustomerDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/itheima/com/dao/LinkManDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -766,11 +781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/domain/SaleVisit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-945" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/jsp/salevisit/list.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-360">
@@ -802,20 +812,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/web/action/SaleVisitAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/jsp/salevisit/add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="28" selection-start-line="28" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dao.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
@@ -830,52 +826,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/web/action/UserAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/dao/impl/CustomerDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/dao/impl/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/struts.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="59" column="50" selection-start-line="59" selection-start-column="50" selection-end-line="59" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/web/action/LinkManAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3965">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/web/action/BaseDictAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/web/action/CustomerAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-752">
-          <caret line="166" column="26" selection-start-line="166" selection-start-column="26" selection-end-line="166" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -885,6 +839,161 @@
           <caret line="96" column="67" lean-forward="true" selection-start-line="96" selection-start-column="67" selection-end-line="96" selection-end-column="67" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-278">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/domain/SaleVisit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/customer/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/web/action/BaseDictAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="42" column="85" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="42" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/web/action/LinkManAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2523">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/service/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/dao/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/service/impl/CustomerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#1751#1752#0" expanded="true" />
+            <element signature="e#1786#1787#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/dao/impl/CustomerDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/dao/impl/BaseDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1170">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/dao/CustomerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/web/action/SaleVisitAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+          <folding>
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/web/action/UserAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/salevisit/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1170">
+          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/domain/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+          <folding>
+            <element signature="e#1652#1653#0" expanded="true" />
+            <element signature="e#1674#1675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/com/web/action/CustomerAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="212" selection-start-line="212" selection-end-line="213" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

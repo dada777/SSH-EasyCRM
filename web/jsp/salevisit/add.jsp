@@ -20,7 +20,8 @@
 		},"json");
 		// 异步加载用户信息
 		$.post("${pageContext.request.contextPath }/user_findAllUser.action",{},function(data){
-			$(data).each(function(i,n){
+			// data是jaon格式的
+		    $(data).each(function(i,n){
 				$("#user").append("<option value='"+n.user_id+"'>"+n.user_name+"</option>");
 			});
 		},"json");

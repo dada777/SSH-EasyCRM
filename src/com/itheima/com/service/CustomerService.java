@@ -18,4 +18,7 @@ public interface CustomerService {
 	void update(Customer customer);
 
 	List<Customer> findAll();
+
+
+	List<Customer> findAllCustomer();
 }

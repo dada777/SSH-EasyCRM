@@ -11,12 +11,16 @@ import com.itheima.com.utils.UploadUtils;
 import com.opensymphony.xwork2.ActionContext;
 import com.opensymphony.xwork2.ActionSupport;
 import com.opensymphony.xwork2.ModelDriven;
+import net.sf.json.JSONArray;
+import net.sf.json.JsonConfig;
 import org.apache.commons.io.FileUtils;
+import org.apache.struts2.ServletActionContext;
 import org.hibernate.criterion.DetachedCriteria;
 import org.hibernate.criterion.Restrictions;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.List;
 
 public class CustomerAction extends ActionSupport implements ModelDriven<Customer> {
 	private Customer customer = new Customer();
@@ -194,6 +198,31 @@ public class CustomerAction extends ActionSupport implements ModelDriven<Custome
 		ActionContext.getContext().getValueStack().push(pageBean);
 		return "findAll";
 	}
+
+	//用于在拜访客户的列表里面把下拉列表放进去咯   无需分页啦
+	public String findAllCustomer() throws IOException {
+		List<Customer> list = customerService.findAllCustomer();
+		System.out.println("我被执行了..");
+
+//		for(Customer c : list){
+//			System.out.println(c);
+//		}
+
+        //解决net.sf.json.JSONException: There is a cycle in the hierarchy!
+		//json 没有办法拿到 读取他里面的东西 必须过滤掉哦
+		JsonConfig jsonConfig = new JsonConfig();
+		jsonConfig.setExcludes(new String[]{"linkMans","baseDictSource","baseDictLevel","baseDictIndustry"});
+		JSONArray jsonArray = JSONArray.fromObject(list, jsonConfig);
+
+		ServletActionContext.getResponse().setContentType("text/html;charset=UTF-8");
+		ServletActionContext.getResponse().getWriter().println(jsonArray.toString());
+		return  NONE;
+	}
+
+
+
+
+
 	public void setCustomer(Customer customer) {
 		this.customer = customer;
 	}
